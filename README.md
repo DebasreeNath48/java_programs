@@ -1,1 +1,6 @@
 # java_programs
+
+1. **Print Hello World.** [View Answer](./hello.java)
+2. **Create a "Student" Class and add different attributes.** [View Answer](./Student.java)
+3. **Write a program to take argument from user and make factorial of that number** [View Answer](./factorial.java)
+4. **Write a program to implement the factorial function and pass arguments from main.** [View Answer](./factorial_args.java)
