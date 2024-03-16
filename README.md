@@ -1,4 +1,4 @@
-# java_programs
+# Java_programs(Assignments)
 
 1. **Print Hello World.** [View Answer](./hello.java)
 2. **Create a "Student" Class and add different attributes.** [View Answer](./Student.java)
